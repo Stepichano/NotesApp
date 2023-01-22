@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bq8TD+CM3JzaCNlO5n93233YeFDQV27Gc3RbPPnvG9amwp/PxfeGqX//5b6VN52RLKsLoOhmmp9FS6TR2vNIoQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\NoteApp\\Nodes.WebApi\\Nodes.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
